@@ -2,5 +2,5 @@ spring:
   application:
     name: greeting-service
 greeting-service:
-  greeting: "Pronto"
-  default-value: "World"
+  greeting: "Pronto,"
+  default-value: "Cabra Safado"
