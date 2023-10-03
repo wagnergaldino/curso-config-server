@@ -1,0 +1,1 @@
+# galdino-config-server
